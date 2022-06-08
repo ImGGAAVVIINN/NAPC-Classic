@@ -10,14 +10,14 @@ NAPC is technically a mod pack that has mods, resource packs, and macros that mi
 ##  Installation
 ### Windows:
 
-Click on the green 'Code' button ► Download ZIP 
-Extract the 'windows' folder
-In the launcher, set the game directory to the folder you just extracted.
+Click on the green 'Code' button ► Download ZIP  
+Extract the 'windows' folder  
+In the launcher, set the game directory to the folder you just extracted.  
 Find and launch the Minecraft version 'NAPC'
 
 ###  Linux:
-Click on the green 'Code' button ► Download ZIP 
-Extract the 'Linux' folder
+Click on the green 'Code' button ► Download ZIP  
+Extract the 'Linux' folder  
 In the launcher, set the game directory to the version that you want to install:
 ``` With Scroll-To-Click mod version or Without Scroll-To-Click mod version. ```
 Find and launch the Minecraft version 'NAPC'
