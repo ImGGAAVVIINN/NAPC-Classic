@@ -25,8 +25,10 @@ Find and launch the Minecraft version 'NAPC'
 
 ## How to enable/disable mods
 
-NAPC is a modpack, so there is 2 ways to disable mods.
-For mod that supports 
+NAPC is a modpack, so there is 2 ways to disable mods.  
+For mods that supports being disabled, click on the 'Mods' button in the pause menu. It will bring you to the mod menu, choose the mod you want to disable from the list. And click on the red 'Disable' button to disable it.  
+  
+For mods that Do Not supports being disabled(The 'The disable button gray out in the mod menu'), go to the 'mods' folder in the client-folder. Move the mod .jar file that you want to disable into the '! Disabled' folder. And restart the game.
 
 ##  Features
 
