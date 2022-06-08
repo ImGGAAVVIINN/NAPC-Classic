@@ -4,7 +4,10 @@
 
 WARNING [DON'T USE IT ON HYPIXEL]
 
-NAPC is technically a mod pack that has mods, resource packs, and macros that might give you a slight advantage over other players while not getting detected
+NAPC is technically a mod pack that has mods, resource packs, and macros that might give you a slight advantage over other players while not getting detected.
+
+I did not make any of the mod/resource pack here, I just put compatable mods together to create this client.
+I will put a link to the website of the mods. As well as a credit of the sessction that
 
 ![](header.png)
 ##  Installation
@@ -26,6 +29,7 @@ Find and launch the Minecraft version 'NAPC'
 ## How to enable/disable mods
 
 NAPC is a modpack, so there is 2 ways to disable mods.  
+  
 For mods that supports being disabled, click on the 'Mods' button in the pause menu. It will bring you to the mod menu, choose the mod you want to disable from the list. And click on the red 'Disable' button to disable it.  
   
 For mods that Do Not supports being disabled(The 'The disable button gray out in the mod menu'), go to the 'mods' folder in the client-folder. Move the mod .jar file that you want to disable into the '! Disabled' folder. And restart the game.
@@ -33,6 +37,10 @@ For mods that Do Not supports being disabled(The 'The disable button gray out in
 ##  Features
 
 ### FPS Boost
+
+Like most Pvp Client, NAPC boost your fps. Making the gameplay experance more enjoyable
+
+With 
 
 ### Cosmetics
 ``` The Cosmetics are provided by the Essential Mod, and there are many great free cosmetics for you to choose from. However, if you want to spend money and buy cosmetics, you are 100% welcome to do so. Just keep in mind that 100% of the money that you use to buy those cosmetics goes to the Essential Mod developers. It is great if you want to support their amazing work. Just remember that this is just a hobby project, and it is NOT sponsored by the Essential Mod. ```
