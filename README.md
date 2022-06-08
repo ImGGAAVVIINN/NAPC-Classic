@@ -8,20 +8,20 @@ NAPC is technically a mod pack that has mods, resource packs, and macros that mi
 
 ![](header.png)
 ##  Installation
-### Windows:
+### Windows:  
 
 Click on the green 'Code' button ► Download ZIP  
 Extract the 'windows' folder  
 In the launcher, set the game directory to the folder you just extracted.  
 Find and launch the Minecraft version 'NAPC'
 
-###  Linux:
+###  Linux:  
 Click on the green 'Code' button ► Download ZIP  
 Extract the 'Linux' folder  
-In the launcher, set the game directory to the version that you want to install:
-``` With Scroll-To-Click mod version or Without Scroll-To-Click mod version. ```
-Find and launch the Minecraft version 'NAPC'
-```(Note that if you are using the Linux ►Scroll-to-Click-Macro version does not have the cosmetic, since the Essential Mod cannot load with the No Scroll. The mod that prevents hot bar scrolling when you  are using scroll-to-click)```
+In the launcher, set the game directory to the version that you want to install:  
+``` With Scroll-To-Click mod version or Without Scroll-To-Click mod version. ```  
+Find and launch the Minecraft version 'NAPC'  
+```(Note that if you are using the Linux ►Scroll-to-Click-Macro version does not have the cosmetic, since the Essential Mod cannot load with the No Scroll. The mod that prevents hot bar scrolling when you  are using scroll-to-click)```  
 
 ## How to enable/disable mods
 
