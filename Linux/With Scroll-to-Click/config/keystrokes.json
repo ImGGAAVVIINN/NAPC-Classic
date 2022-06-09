@@ -1,0 +1,44 @@
+{
+  "x": 1,
+  "y": 0,
+  "leftClick": true,
+  "red": 255,
+  "green": 255,
+  "blue": 255,
+  "pressedRed": 50,
+  "pressedGreen": 50,
+  "pressedBlue": 255,
+  "scale": 1.0,
+  "fadeTime": 1.0,
+  "enabled": true,
+  "chroma": false,
+  "mouseButtons": true,
+  "showCPS": true,
+  "showCPSOnButtons": true,
+  "showSpacebar": true,
+  "fps": true,
+  "showSneak": true,
+  "keyBackground": true,
+  "showWASD": true,
+  "literalKeys": false,
+  "keyBackgroundOpacity": 120,
+  "keyBackgroundRed": 0,
+  "keyBackgroundGreen": 0,
+  "keyBackgroundBlue": 0,
+  "arrowKeys": false,
+  "ping": true,
+  "custom": [
+    {
+      "key": 19,
+      "type": 2,
+      "xOffset": 50.0,
+      "yOffset": -128.0
+    },
+    {
+      "key": 34,
+      "type": 2,
+      "xOffset": 2.0,
+      "yOffset": -128.0
+    }
+  ]
+}
