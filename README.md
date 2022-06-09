@@ -6,8 +6,8 @@ WARNING [DON'T USE IT ON HYPIXEL]
 
 NAPC is technically a mod pack that has mods, resource packs, and macros that might give you a slight advantage over other players while not getting detected.
 
-I did not make any of the mod/resource pack here, I just put compatable mods together to create this client.
-I will put a link to the website of the mods. As well as a credit of the sessction that
+I did not make any of the mod/resource packs here, I just put compatible mods together to create this client.
+I will put a link to the website of the mods. As well as a credit of the section that will credit all the Authors and the website to the mod/resource packs.(When I finished upload all files on to github)
 
 ![](header.png)
 ##  Installation
@@ -67,4 +67,5 @@ To use it, type ``` /keystrokes ```  in the chat, and a menu will show up. Letti
 3. Make fps faster
 4. add in ingame music player (maybe)
 5. add a batch/shell script or gui application to automaticly disable/enable mods
+6. add credit section
 
