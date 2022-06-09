@@ -1,0 +1,29 @@
+{
+  "userSet": {
+    "selected": {
+      "username": "ImGGAAVVIINN",
+      "type": "minecraft"
+    },
+    "list": [
+      {
+        "username": "test",
+        "uuid": "530fa97a357f3c1994d30c5c65c18fe8",
+        "type": "plain"
+      },
+      {
+        "id": "b90928aa-b0e0-4cd2-8348-e51bc61a83b4",
+        "name": "ImGGAAVVIINN",
+        "minecraft": {
+          "token": "eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQyMTE4OTg2NzI5NCIsImFnZyI6IkFkdWx0Iiwic3ViIjoiZDliYmNmMmEtYTI4YS00ZGFjLTg1MGMtMDhjZWUzMzNlNTNiIiwibmJmIjoxNjU0NzMzNzI1LCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NTQ4MjAxMjUsImlhdCI6MTY1NDczMzcyNSwicGxhdGZvcm0iOiJVTktOT1dOIiwieXVpZCI6Ijg2YzJlN2VkNzM3OGVmZjRlMGU4YTJhNDU4NzYwYTQyIn0.4h2DwI03WK0tHO4ueOLbTjYSoTHOItXoWnwEThuKrX4",
+          "expiresAt": "2022-06-10T00:15:25.763741447Z"
+        },
+        "microsoft": {
+          "accessToken": "EwAYA+pvBAAUKods63Ys1fGlwiccIFJ+qE1hANsAAfNlKwIeycgRgL1+oQ1j6IRRRSpkuoz/e0LnfQBtCp+/z5yU7Load7+zkotMRPg1p9+AdLaDVDb7YjvKGFYw/PwICfIOYooMQ13xp4V7laMsaaceNLO5OtwFDXe5thcLEB0n79gqVNNcBgbKqnWZrmWOurSsatccLJuLTgKJTZQI9U0g8F2W8fz7w0oxvyszfT+mHinAa9wdc3rfd+5gFJkSFVzhqSONMWJ+dzt9pfn+wsA4vG6YgDQw5NRfeF6Xd0YRHOFKQUu22O4bDKfqCFb+7tad6EaaZ0NoMNW/jZ9HU7VSGhJ6qt0aWOiSq3cwISs8VNE+gPBUx59F6endWrEDZgAACJOG3UcyYTO96AGkCRhaMl6HayXC4ehTF1H90qWYwqiP3Xt+a9AhWGyo4tPPuzoNAh1EbEE7HQ48GVHVp3xP/1iQT7zZjWamfzMmvaKl3GFrpeIK3LeG3lv7KGMdn/CjsbC9YQv/dGQ4BP0W34EWq3V0Hj1BlJ0RbU+vZH0BzTsMgcjXzNgVer06iRg2xDteFkp6que1Wsx3AR3sCxLwnjNbQVaOZ+JX36u818qGz6vOlV4fz9hwAJv0pmcdhvp8Z3Vrr7y/bR+ARudbuLv33sp2qegXyHtVauvfKggHRaP2KmABKD48L6titJy/fBzdaVT41ilzlgbao0zSbUYXn6R72syMcObM6tBZJSnyXta0/aEDbfXcxo1PxHIarHZpaWOWkdnT/Hxsp96GlUNYPdzn9CFaArlLiAibFD6Ktj67w7siLu/CdBUGgXkAFjF6xI0z1TceJ0hQP1310GTGPYMjyDp9QKCdQ68aJVr0BIX2zW7fmKJ6jIz9+LBfRW7+HgHy9X5FAvE+4FYbPIfwpGV9mUv4ISMzfJ0+5vVybeq5Q70qXMI3AQRmVr5Lsh2bC5s3IYbzHf8oN0E9NjTBTrxhvzNfz2togYrrsD/Q+f0a+Mst/BmcF8D4ueL2bAsLHt22g2FTy2xwsCirZlBb8rae5iAC",
+          "refreshToken": "M.R3_BAY.-CTzyJJwEzi8pK1MRywU1qbhvMKeuuK7H*vn86JKW4ClVxjBpLFuy*KfFcjN0tOX5vPBso1FGxNepNJmIsRBT!f4WYd*Y4ZISrFGgU*gbZF3AnpTli2OytANUoIHaHJNCpaDEjmg*PAMomSFIch1KrU1j9gpi4!z4qYYp*3pWzg5drkoCa!k63BXCR1r0Puv2DxLRjVjeRkl6N93H3M5wGJ84p1BsauBOl0Q5xSU9L7kVOQD*lZM1dUNqMRQxrVMUaisgVL4q2jHNb2mwcTOOaA69JyFWhz9UrOyEV5kdwjF9bbqb0jnperPKl69QAhYB8w$$",
+          "expiresAt": "2022-06-09T01:15:18.495563699Z"
+        },
+        "type": "minecraft"
+      }
+    ]
+  }
+}
