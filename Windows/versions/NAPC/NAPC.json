@@ -2,7 +2,7 @@
   "id": "NAPC",
   "jar": "1.8.9",
   "family": "Forge-1.8",
-  "time": "2022-06-09T00:17:51.705Z",
+  "time": "2022-06-09T00:44:24.447Z",
   "releaseTime": "2015-12-03T09:24:39Z",
   "type": "modified",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker",
