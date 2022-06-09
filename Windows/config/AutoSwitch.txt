@@ -1,5 +1,5 @@
 #AutoSwitch basic properties
-#Mon Jun 06 18:44:35 AEST 2022
+#Thu Jun 09 10:19:16 AEST 2022
 DEBUG=false
 DEFAULT_ENABED=true
 TOGGLE_KEY=F10
