@@ -1,0 +1,9 @@
+On first run, install depencicy(the the perogrames that is needed to run the macro), by running in terminal
+cd <The path to this folder>
+./InstallDepency.sh
+
+To run the macro, simply dubble click 'macro.py' in your file explorer
+or you can run:
+./macro.py
+or
+python3 macro.py
