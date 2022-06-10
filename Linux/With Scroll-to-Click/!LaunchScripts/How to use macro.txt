@@ -7,3 +7,7 @@ or you can run:
 ./macro.py
 or
 python3 macro.py
+
+To stop the macro, simply dubble click 'stopMacro.sh' in your file explorer
+or you can run:
+./stopMacro.sh
