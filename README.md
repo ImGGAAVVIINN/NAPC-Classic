@@ -9,7 +9,7 @@ NAPC is technically a mod pack that has mods, resource packs, and macros that mi
 I did not make any of the mod/resource packs here, I just put compatible mods together to create this client.
 I will put a link to the website of the mods. As well as a credit of the section that will credit all the Authors and the website to the mod/resource packs.(When I finished upload all files on to github)
 
-//![](header.png)
+
 ##  Installation
 ### Windows:  
 
