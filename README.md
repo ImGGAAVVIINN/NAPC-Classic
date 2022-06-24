@@ -61,6 +61,22 @@ To use it, type ``` /keystrokes ```  in the chat, and a menu will show up. Letti
 
 ``` To learn more, go to: https://sk1er.club/mods/keystrokesmod ``` 
 
+### XRay TexurePack  
+
+### Friends
+
+### Macros
+
+### Fast-Bridge Mod
+
+### ESP
+
+### 1.7 Animations
+
+### Item Phyics
+
+### Capes
+
 ## Todo 
 1. make no scroll mod mod compatable with essental so that I can merge the with-macro and without-macro version together
 2. Fix the extreamly long loading time when redirecting budgie network servers when running on Linux
