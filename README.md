@@ -77,6 +77,20 @@ To use it, type ``` /keystrokes ```  in the chat, and a menu will show up. Letti
 
 ### Capes
 
+### Full Bright
+
+### Block Overlay Customiser
+
+### TNT Timer
+
+### Auto Reconnect
+
+### Multi Connect(Client-side ViaVersion)
+
+### Auto Tool
+
+### Resource Pack Organiser
+
 ## Todo 
 1. make no scroll mod mod compatable with essental so that I can merge the with-macro and without-macro version together
 2. Fix the extreamly long loading time when redirecting budgie network servers when running on Linux
