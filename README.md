@@ -9,7 +9,7 @@ NAPC is technically a mod pack that has mods, resource packs, and macros that mi
 I did not make any of the mod/resource packs here, I just put compatible mods together to create this client.
 I will put a link to the website of the mods. As well as a credit of the section that will credit all the Authors and the website to the mod/resource packs.(When I finished upload all files on to github)
 
-![](header.png)
+
 ##  Installation
 ### Windows:  
 
@@ -60,6 +60,36 @@ If you are making a video, it helps the viewers see how you play and hopefully l
 To use it, type ``` /keystrokes ```  in the chat, and a menu will show up. Letting you customise the keystrokes.
 
 ``` To learn more, go to: https://sk1er.club/mods/keystrokesmod ``` 
+
+### XRay TexurePack  
+
+### Friends
+
+### Macros
+
+### Fast-Bridge Mod
+
+### ESP
+
+### 1.7 Animations
+
+### Item Phyics
+
+### Capes
+
+### Full Bright
+
+### Block Overlay Customiser
+
+### TNT Timer
+
+### Auto Reconnect
+
+### Multi Connect(Client-side ViaVersion)
+
+### Auto Tool
+
+### Resource Pack Organiser
 
 ## Todo 
 1. make no scroll mod mod compatable with essental so that I can merge the with-macro and without-macro version together
